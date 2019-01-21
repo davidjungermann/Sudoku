@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"SingleSymbolField"},{"p":"<Unnamed>","l":"SudokuController"},{"p":"<Unnamed>","l":"SudokuSolver"},{"p":"<Unnamed>","l":"SudokuTest"}]
